@@ -1,0 +1,14 @@
+{
+  "owner": "Harzva",
+  "mode": "release",
+  "title": "harzva-release-hub",
+  "description": "Auto-updating release hub for Harzva repositories with published GitHub releases.",
+  "includePrivate": false,
+  "privateOmitted": 13,
+  "hubLinks": {
+    "atlas": "https://github.com/Harzva/harzva-project-atlas",
+    "release": "https://github.com/Harzva/harzva-release-hub",
+    "pages": "https://github.com/Harzva/harzva-pages-hub",
+    "skills": "https://github.com/Harzva/harzva-skills-hub"
+  }
+}
