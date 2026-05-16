@@ -14,8 +14,8 @@ A living release board for Harzva projects with published GitHub releases, direc
 
 | Project | Version | Assets | Published | Language | Description |
 |---|---:|---:|---:|---:|---|
-| [RepoAtlas](https://github.com/Harzva/RepoAtlas) | [v0.5.1](https://github.com/Harzva/RepoAtlas/releases/tag/v0.5.1) | 2 | 2026-05-14 | Rust | RepoAtlas maps multiple GitHub accounts to local Git checkouts, context categories, sync drift, and desktop folder actions. |
-| [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | [v0.1.9](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9) | 5 | 2026-05-14 | Rust | GitHub/Gitee APK discovery and release download tool |
+| [RepoAtlas](https://github.com/Harzva/RepoAtlas) | [v0.6.1](https://github.com/Harzva/RepoAtlas/releases/tag/v0.6.1) | 2 | 2026-05-15 | Rust | RepoAtlas maps multiple GitHub accounts to local Git checkouts, context categories, sync drift, and desktop folder actions. |
+| [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | [v0.2.0](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0) | 5 | 2026-05-15 | Rust | GitHub/Gitee APK discovery and release download tool |
 | [github-management-suite](https://github.com/Harzva/github-management-suite) | [v0.2.0](https://github.com/Harzva/github-management-suite/releases/tag/v0.2.0) | 0 | 2026-05-14 | Python | Cross-platform Codex skill for full GitHub repository lifecycle management |
 | [mobilecode](https://github.com/Harzva/mobilecode) | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 3 | 2026-05-12 | Dart | MobileCode - AI coding workspace for mobile devices |
 | [codex-managed-agent](https://github.com/Harzva/codex-managed-agent) | [v1.0.3](https://github.com/Harzva/codex-managed-agent/releases/tag/v1.0.3) | 1 | 2026-04-16 | JavaScript |  |
@@ -26,16 +26,16 @@ A living release board for Harzva projects with published GitHub releases, direc
 | Download | Repo | Kind | Version | Size | Downloads | Published |
 |---|---|---:|---:|---:|---:|---:|
 | [codex-managed-agent-1.0.3.vsix](https://github.com/Harzva/codex-managed-agent/releases/download/v1.0.3/codex-managed-agent-1.0.3.vsix) | [codex-managed-agent](https://github.com/Harzva/codex-managed-agent) | Release Asset | [v1.0.3](https://github.com/Harzva/codex-managed-agent/releases/tag/v1.0.3) | 457.8 KB | 1 | 2026-04-16 |
-| [gitmarket-linux-x86_64.tar.gz](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-linux-x86_64.tar.gz) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.1.9](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9) | 5.3 MB | 0 | 2026-05-14 |
-| [gitmarket-macos-aarch64.tar.gz](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-macos-aarch64.tar.gz) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.1.9](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9) | 3.8 MB | 0 | 2026-05-14 |
-| [gitmarket-windows-x86_64.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-windows-x86_64.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.1.9](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9) | 3.6 MB | 2 | 2026-05-14 |
-| [RepoAtlas-v0.5.1-macos-ARM64.tar.gz](https://github.com/Harzva/RepoAtlas/releases/download/v0.5.1/RepoAtlas-v0.5.1-macos-ARM64.tar.gz) | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | Archive | [v0.5.1](https://github.com/Harzva/RepoAtlas/releases/tag/v0.5.1) | 698.1 KB | 0 | 2026-05-14 |
-| [RepoAtlas-v0.5.1-windows-x64.exe](https://github.com/Harzva/RepoAtlas/releases/download/v0.5.1/RepoAtlas-v0.5.1-windows-x64.exe) | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | Windows | [v0.5.1](https://github.com/Harzva/RepoAtlas/releases/tag/v0.5.1) | 1.6 MB | 0 | 2026-05-14 |
-| [gitmarket-android-experimental.apk](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-android-experimental.apk) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Android APK | [v0.1.9](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9) | 4.1 MB | 1 | 2026-05-14 |
-| [gitmarket-ios-simulator.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-ios-simulator.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.1.9](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9) | 205.1 KB | 1 | 2026-05-14 |
+| [gitmarket-linux-x86_64.tar.gz](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-linux-x86_64.tar.gz) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.2.0](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0) | 5.3 MB | 0 | 2026-05-15 |
+| [gitmarket-macos-aarch64.tar.gz](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-macos-aarch64.tar.gz) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.2.0](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0) | 3.8 MB | 0 | 2026-05-15 |
+| [gitmarket-windows-x86_64.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-windows-x86_64.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.2.0](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0) | 3.6 MB | 1 | 2026-05-15 |
+| [RepoAtlas-v0.6.1-macos-ARM64.tar.gz](https://github.com/Harzva/RepoAtlas/releases/download/v0.6.1/RepoAtlas-v0.6.1-macos-ARM64.tar.gz) | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | Archive | [v0.6.1](https://github.com/Harzva/RepoAtlas/releases/tag/v0.6.1) | 718.4 KB | 0 | 2026-05-15 |
+| [RepoAtlas-v0.6.1-windows-x64.exe](https://github.com/Harzva/RepoAtlas/releases/download/v0.6.1/RepoAtlas-v0.6.1-windows-x64.exe) | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | Windows | [v0.6.1](https://github.com/Harzva/RepoAtlas/releases/tag/v0.6.1) | 1.7 MB | 0 | 2026-05-15 |
+| [gitmarket-android-experimental.apk](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-android-experimental.apk) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Android APK | [v0.2.0](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0) | 4.1 MB | 1 | 2026-05-15 |
+| [gitmarket-ios-simulator.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-ios-simulator.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.2.0](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0) | 205.1 KB | 0 | 2026-05-15 |
 | [mobilecode-ios-simulator-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-ios-simulator-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.4 MB | 0 | 2026-05-12 |
 | [mobilecode-site-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 219.6 KB | 1 | 2026-05-12 |
-| [mobilecode-v0.1.0.apk](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk) | [mobilecode](https://github.com/Harzva/mobilecode) | Android APK | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 49.5 MB | 0 | 2026-05-12 |
+| [mobilecode-v0.1.0.apk](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk) | [mobilecode](https://github.com/Harzva/mobilecode) | Android APK | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 49.5 MB | 1 | 2026-05-12 |
 
 ## Auto Update
 
@@ -45,5 +45,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-05-15T06:44:04.469651+00:00`.
+- Generated at: `2026-05-16T06:09:10.547267+00:00`.
 - Private repositories omitted from this public output: `13`.
