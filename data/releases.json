@@ -175,8 +175,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-05-16T04:07:45Z",
-    "updatedAt": "2026-05-16T04:07:49Z",
+    "pushedAt": "2026-05-17T04:36:51Z",
+    "updatedAt": "2026-05-17T04:36:54Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -228,7 +228,7 @@
     "primaryLanguage": {
       "name": "Dart"
     },
-    "pushedAt": "2026-05-16T05:18:01Z",
+    "pushedAt": "2026-05-17T06:26:48Z",
     "updatedAt": "2026-05-15T06:51:31Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
@@ -274,7 +274,7 @@
         {
           "name": "mobilecode-v0.1.0.apk",
           "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
-          "size": 51903061,
+          "size": 53051517,
           "downloadCount": 1,
           "contentType": "application/vnd.android.package-archive"
         }
@@ -292,8 +292,8 @@
     "primaryLanguage": {
       "name": "Rust"
     },
-    "pushedAt": "2026-05-15T09:46:44Z",
-    "updatedAt": "2026-05-15T09:45:55Z",
+    "pushedAt": "2026-05-16T09:58:01Z",
+    "updatedAt": "2026-05-16T09:57:48Z",
     "createdAt": "2026-05-12T15:53:11Z",
     "defaultBranchRef": {
       "name": "main"
@@ -314,24 +314,24 @@
       "httpsEnforced": true
     },
     "latestRelease": {
-      "name": "v0.6.1",
-      "tagName": "v0.6.1",
-      "url": "https://github.com/Harzva/RepoAtlas/releases/tag/v0.6.1",
-      "publishedAt": "2026-05-15T09:49:29Z",
+      "name": "v0.6.5",
+      "tagName": "v0.6.5",
+      "url": "https://github.com/Harzva/RepoAtlas/releases/tag/v0.6.5",
+      "publishedAt": "2026-05-16T10:01:25Z",
       "prerelease": false,
       "draft": false,
       "assets": [
         {
-          "name": "RepoAtlas-v0.6.1-macos-ARM64.tar.gz",
-          "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.1/RepoAtlas-v0.6.1-macos-ARM64.tar.gz",
-          "size": 735687,
+          "name": "RepoAtlas-v0.6.5-macos-ARM64.tar.gz",
+          "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.5/RepoAtlas-v0.6.5-macos-ARM64.tar.gz",
+          "size": 775693,
           "downloadCount": 0,
           "contentType": "application/gzip"
         },
         {
-          "name": "RepoAtlas-v0.6.1-windows-x64.exe",
-          "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.1/RepoAtlas-v0.6.1-windows-x64.exe",
-          "size": 1788416,
+          "name": "RepoAtlas-v0.6.5-windows-x64.exe",
+          "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.5/RepoAtlas-v0.6.5-windows-x64.exe",
+          "size": 1945088,
           "downloadCount": 0,
           "contentType": "application/x-msdos-program"
         }
