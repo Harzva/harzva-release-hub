@@ -10,14 +10,14 @@
     "primaryLanguage": {
       "name": "JavaScript"
     },
-    "pushedAt": "2026-05-19T02:39:24Z",
-    "updatedAt": "2026-05-19T02:39:30Z",
+    "pushedAt": "2026-05-20T03:13:51Z",
+    "updatedAt": "2026-05-19T17:30:06Z",
     "createdAt": "2026-04-13T14:39:15Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 95,
+    "stargazerCount": 93,
     "forkCount": 23,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codex-managed-agent",
@@ -182,15 +182,15 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-05-19T04:39:24Z",
-    "updatedAt": "2026-05-19T04:39:28Z",
+    "pushedAt": "2026-05-20T04:43:24Z",
+    "updatedAt": "2026-05-20T04:43:28Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 171,
-    "forkCount": 38,
+    "stargazerCount": 169,
+    "forkCount": 37,
     "repositoryTopics": [
       "agent-loop",
       "ai-coding",
@@ -235,14 +235,14 @@
     "primaryLanguage": {
       "name": "Dart"
     },
-    "pushedAt": "2026-05-19T06:53:28Z",
-    "updatedAt": "2026-05-18T18:47:23Z",
+    "pushedAt": "2026-05-19T11:21:33Z",
+    "updatedAt": "2026-05-20T06:37:43Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
-      "name": "main"
+      "name": "v011-streaming-fix"
     },
     "homepageUrl": "",
-    "stargazerCount": 0,
+    "stargazerCount": 12,
     "forkCount": 0,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
