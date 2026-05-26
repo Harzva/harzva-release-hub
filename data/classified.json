@@ -1,13 +1,13 @@
 {
   "summary": {
-    "generatedAt": "2026-05-25T07:59:56.897789+00:00",
+    "generatedAt": "2026-05-26T06:57:34.140292+00:00",
     "owner": "Harzva",
     "mode": "release",
-    "publicRepositories": 93,
+    "publicRepositories": 94,
     "forks": 35,
     "pages": 18,
     "releases": 6,
-    "skills": 21,
+    "skills": 22,
     "artifacts": 12,
     "privateOmitted": 13
   },
@@ -338,8 +338,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-05-25T07:58:57Z",
-        "updatedAt": "2026-05-25T07:59:01Z",
+        "pushedAt": "2026-05-26T06:56:51Z",
+        "updatedAt": "2026-05-26T06:56:54Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -372,8 +372,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-05-25T07:58:37Z",
-        "updatedAt": "2026-05-25T07:58:40Z",
+        "pushedAt": "2026-05-26T06:56:08Z",
+        "updatedAt": "2026-05-26T06:56:12Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -396,40 +396,6 @@
         "latestRelease": null
       },
       {
-        "name": "Agent-Job-Interview",
-        "nameWithOwner": "Harzva/Agent-Job-Interview",
-        "url": "https://github.com/Harzva/Agent-Job-Interview",
-        "description": "Agent job interview roadmap and practice training suite.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "TypeScript"
-        },
-        "pushedAt": "2026-05-25T05:49:59Z",
-        "updatedAt": "2026-05-25T05:50:04Z",
-        "createdAt": "2026-05-12T09:49:47Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/Agent-Job-Interview/",
-          "status": "built",
-          "source": {
-            "branch": "main",
-            "path": "/docs"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
         "name": "learn-likecc",
         "nameWithOwner": "Harzva/learn-likecc",
         "url": "https://github.com/Harzva/learn-likecc",
@@ -440,8 +406,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-05-25T04:59:32Z",
-        "updatedAt": "2026-05-25T04:59:35Z",
+        "pushedAt": "2026-05-26T04:40:39Z",
+        "updatedAt": "2026-05-26T04:40:43Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -483,6 +449,40 @@
         }
       },
       {
+        "name": "Agent-Job-Interview",
+        "nameWithOwner": "Harzva/Agent-Job-Interview",
+        "url": "https://github.com/Harzva/Agent-Job-Interview",
+        "description": "Agent job interview roadmap and practice training suite.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-05-25T16:03:33Z",
+        "updatedAt": "2026-05-25T16:03:37Z",
+        "createdAt": "2026-05-12T09:49:47Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/Agent-Job-Interview/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/docs"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "harzva-release-hub",
         "nameWithOwner": "Harzva/harzva-release-hub",
         "url": "https://github.com/Harzva/harzva-release-hub",
@@ -493,8 +493,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-05-24T06:48:36Z",
-        "updatedAt": "2026-05-24T06:48:40Z",
+        "pushedAt": "2026-05-25T07:59:57Z",
+        "updatedAt": "2026-05-25T08:00:01Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -535,7 +535,7 @@
         },
         "homepageUrl": "",
         "stargazerCount": 130,
-        "forkCount": 6,
+        "forkCount": 7,
         "repositoryTopics": [],
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
         "pages": {
@@ -963,7 +963,7 @@
         "primaryLanguage": {
           "name": "JavaScript"
         },
-        "pushedAt": "2026-05-25T07:41:17Z",
+        "pushedAt": "2026-05-25T09:29:48Z",
         "updatedAt": "2026-05-22T11:47:05Z",
         "createdAt": "2026-04-13T14:39:15Z",
         "defaultBranchRef": {
@@ -998,6 +998,33 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "provider-api-cli-suite",
+        "nameWithOwner": "Harzva/provider-api-cli-suite",
+        "url": "https://github.com/Harzva/provider-api-cli-suite",
+        "description": "Multi-provider API CLI and Agent Skills toolkit for OpenAI, Anthropic, Gemini, Ollama, Bedrock, DeepSeek, Kimi, MiMo, and GLM",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-05-26T06:56:45Z",
+        "updatedAt": "2026-05-26T06:56:49Z",
+        "createdAt": "2026-05-26T06:56:21Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/provider-api-cli-suite",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
+      {
         "name": "harzva-skills-hub",
         "nameWithOwner": "Harzva/harzva-skills-hub",
         "url": "https://github.com/Harzva/harzva-skills-hub",
@@ -1008,8 +1035,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-05-25T07:58:42Z",
-        "updatedAt": "2026-05-25T07:58:45Z",
+        "pushedAt": "2026-05-26T06:56:18Z",
+        "updatedAt": "2026-05-26T06:56:22Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -3288,8 +3315,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-25T05:49:59Z",
-      "updatedAt": "2026-05-25T05:50:04Z",
+      "pushedAt": "2026-05-25T16:03:33Z",
+      "updatedAt": "2026-05-25T16:03:37Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3689,8 +3716,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-25T07:58:57Z",
-      "updatedAt": "2026-05-25T07:59:01Z",
+      "pushedAt": "2026-05-26T06:56:51Z",
+      "updatedAt": "2026-05-26T06:56:54Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3723,8 +3750,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-25T07:58:37Z",
-      "updatedAt": "2026-05-25T07:58:40Z",
+      "pushedAt": "2026-05-26T06:56:08Z",
+      "updatedAt": "2026-05-26T06:56:12Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3757,8 +3784,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-24T06:48:36Z",
-      "updatedAt": "2026-05-24T06:48:40Z",
+      "pushedAt": "2026-05-25T07:59:57Z",
+      "updatedAt": "2026-05-25T08:00:01Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3791,8 +3818,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-25T07:58:42Z",
-      "updatedAt": "2026-05-25T07:58:45Z",
+      "pushedAt": "2026-05-26T06:56:18Z",
+      "updatedAt": "2026-05-26T06:56:22Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3859,8 +3886,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-25T04:59:32Z",
-      "updatedAt": "2026-05-25T04:59:35Z",
+      "pushedAt": "2026-05-26T04:40:39Z",
+      "updatedAt": "2026-05-26T04:40:43Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3920,7 +3947,7 @@
       },
       "homepageUrl": "",
       "stargazerCount": 130,
-      "forkCount": 6,
+      "forkCount": 7,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
       "pages": {
@@ -4069,7 +4096,7 @@
       "primaryLanguage": {
         "name": "JavaScript"
       },
-      "pushedAt": "2026-05-25T07:41:17Z",
+      "pushedAt": "2026-05-25T09:29:48Z",
       "updatedAt": "2026-05-22T11:47:05Z",
       "createdAt": "2026-04-13T14:39:15Z",
       "defaultBranchRef": {
@@ -4241,8 +4268,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-25T04:59:32Z",
-      "updatedAt": "2026-05-25T04:59:35Z",
+      "pushedAt": "2026-05-26T04:40:39Z",
+      "updatedAt": "2026-05-26T04:40:43Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4302,7 +4329,7 @@
       },
       "homepageUrl": "",
       "stargazerCount": 130,
-      "forkCount": 6,
+      "forkCount": 7,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
       "pages": {
@@ -4837,8 +4864,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-25T07:58:42Z",
-      "updatedAt": "2026-05-25T07:58:45Z",
+      "pushedAt": "2026-05-26T06:56:18Z",
+      "updatedAt": "2026-05-26T06:56:22Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4918,6 +4945,33 @@
         "workflow"
       ],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Project2AgentWorkOS",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": null
+    },
+    {
+      "name": "provider-api-cli-suite",
+      "nameWithOwner": "Harzva/provider-api-cli-suite",
+      "url": "https://github.com/Harzva/provider-api-cli-suite",
+      "description": "Multi-provider API CLI and Agent Skills toolkit for OpenAI, Anthropic, Gemini, Ollama, Bedrock, DeepSeek, Kimi, MiMo, and GLM",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-05-26T06:56:45Z",
+      "updatedAt": "2026-05-26T06:56:49Z",
+      "createdAt": "2026-05-26T06:56:21Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/provider-api-cli-suite",
       "pages": {
         "enabled": false
       },
