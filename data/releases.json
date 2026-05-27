@@ -11,14 +11,14 @@
       "name": "JavaScript"
     },
     "pushedAt": "2026-05-25T09:29:48Z",
-    "updatedAt": "2026-05-22T11:47:05Z",
+    "updatedAt": "2026-05-26T10:02:21Z",
     "createdAt": "2026-04-13T14:39:15Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 88,
-    "forkCount": 21,
+    "stargazerCount": 7,
+    "forkCount": 2,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codex-managed-agent",
     "pages": {
@@ -182,15 +182,15 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-05-26T04:40:39Z",
-    "updatedAt": "2026-05-26T04:40:43Z",
+    "pushedAt": "2026-05-27T04:54:19Z",
+    "updatedAt": "2026-05-27T04:54:23Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 165,
-    "forkCount": 36,
+    "stargazerCount": 61,
+    "forkCount": 11,
     "repositoryTopics": [
       "agent-loop",
       "ai-coding",
@@ -235,8 +235,8 @@
     "primaryLanguage": {
       "name": "Dart"
     },
-    "pushedAt": "2026-05-23T11:20:17Z",
-    "updatedAt": "2026-05-23T14:02:11Z",
+    "pushedAt": "2026-05-26T11:59:28Z",
+    "updatedAt": "2026-05-26T11:59:32Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
       "name": "last"
