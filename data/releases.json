@@ -182,8 +182,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-06-18T05:12:43Z",
-    "updatedAt": "2026-06-18T05:12:47Z",
+    "pushedAt": "2026-06-19T05:31:57Z",
+    "updatedAt": "2026-06-19T05:32:01Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -235,8 +235,8 @@
     "primaryLanguage": {
       "name": "Dart"
     },
-    "pushedAt": "2026-06-12T16:46:06Z",
-    "updatedAt": "2026-06-17T14:48:03Z",
+    "pushedAt": "2026-06-19T07:03:09Z",
+    "updatedAt": "2026-06-19T07:03:14Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
       "name": "main"
@@ -282,8 +282,79 @@
           "name": "mobilecode-v0.1.0.apk",
           "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
           "size": 53051517,
-          "downloadCount": 13,
+          "downloadCount": 14,
           "contentType": "application/vnd.android.package-archive"
+        }
+      ]
+    }
+  },
+  {
+    "name": "pami-skill-suites",
+    "nameWithOwner": "Harzva/pami-skill-suites",
+    "url": "https://github.com/Harzva/pami-skill-suites",
+    "description": "Context-safe IEEE and Elsevier journal manuscript skill suites with metadata-only RAG trace assets",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-06-18T14:22:07Z",
+    "updatedAt": "2026-06-18T14:23:58Z",
+    "createdAt": "2026-06-18T12:35:39Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/pami-skill-suites/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/pami-skill-suites",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/pami-skill-suites/",
+      "status": "built",
+      "source": {
+        "branch": "main",
+        "path": "/docs"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": {
+      "name": "PAMI Skill Suites v2.7.0",
+      "tagName": "v2.7.0",
+      "url": "https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0",
+      "publishedAt": "2026-06-18T12:46:11Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "name": "elsevier-skills-v2.7.0.zip",
+          "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip",
+          "size": 53240882,
+          "downloadCount": 1,
+          "contentType": "application/zip"
+        },
+        {
+          "name": "ieee-skills-v2.7.0.zip",
+          "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/ieee-skills-v2.7.0.zip",
+          "size": 92831483,
+          "downloadCount": 1,
+          "contentType": "application/zip"
+        },
+        {
+          "name": "journal-skill-suites-v2.7.0.zip",
+          "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
+          "size": 148992508,
+          "downloadCount": 1,
+          "contentType": "application/zip"
+        },
+        {
+          "name": "main-figure-site-v2.7.0.zip",
+          "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/main-figure-site-v2.7.0.zip",
+          "size": 4676658,
+          "downloadCount": 1,
+          "contentType": "application/zip"
         }
       ]
     }

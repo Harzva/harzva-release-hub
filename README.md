@@ -6,7 +6,7 @@ A living release board for Harzva projects with published GitHub releases, direc
 
 [Live Release Board](https://harzva.github.io/harzva-release-hub/) | [Project Atlas](https://github.com/Harzva/harzva-project-atlas)
 
-![Releases](https://img.shields.io/badge/releases-6-F05A28?style=for-the-badge) ![Assets](https://img.shields.io/badge/assets-12-111111?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
+![Releases](https://img.shields.io/badge/releases-7-F05A28?style=for-the-badge) ![Assets](https://img.shields.io/badge/assets-16-111111?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,7 @@ A living release board for Harzva projects with published GitHub releases, direc
 
 | Project | Version | Assets | Published | Language | Description |
 |---|---:|---:|---:|---:|---|
+| [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 4 | 2026-06-18 | Python | Context-safe IEEE and Elsevier journal manuscript skill suites with metadata-only RAG trace assets |
 | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | [v0.3.5](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.5) | 6 | 2026-05-21 | Rust | GitHub/Gitee APK discovery and release download tool |
 | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | [v0.6.6](https://github.com/Harzva/RepoAtlas/releases/tag/v0.6.6) | 2 | 2026-05-21 | Rust | RepoAtlas maps multiple GitHub accounts to local Git checkouts, context categories, sync drift, and desktop folder actions. |
 | [github-management-suite](https://github.com/Harzva/github-management-suite) | [v0.2.0](https://github.com/Harzva/github-management-suite/releases/tag/v0.2.0) | 0 | 2026-05-14 | Python | Cross-platform Codex skill for full GitHub repository lifecycle management |
@@ -26,6 +27,10 @@ A living release board for Harzva projects with published GitHub releases, direc
 | Download | Repo | Kind | Version | Size | Downloads | Published |
 |---|---|---:|---:|---:|---:|---:|
 | [codex-managed-agent-1.0.3.vsix](https://github.com/Harzva/codex-managed-agent/releases/download/v1.0.3/codex-managed-agent-1.0.3.vsix) | [codex-managed-agent](https://github.com/Harzva/codex-managed-agent) | Release Asset | [v1.0.3](https://github.com/Harzva/codex-managed-agent/releases/tag/v1.0.3) | 457.8 KB | 1 | 2026-04-16 |
+| [elsevier-skills-v2.7.0.zip](https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip) | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Archive | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 50.8 MB | 1 | 2026-06-18 |
+| [ieee-skills-v2.7.0.zip](https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/ieee-skills-v2.7.0.zip) | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Archive | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 88.5 MB | 1 | 2026-06-18 |
+| [journal-skill-suites-v2.7.0.zip](https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip) | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Archive | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 142.1 MB | 1 | 2026-06-18 |
+| [main-figure-site-v2.7.0.zip](https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/main-figure-site-v2.7.0.zip) | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Archive | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 4.5 MB | 1 | 2026-06-18 |
 | [gitmarket-linux-x86_64.tar.gz](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.5/gitmarket-linux-x86_64.tar.gz) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.5](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.5) | 16.1 MB | 0 | 2026-05-21 |
 | [gitmarket-macos-aarch64.tar.gz](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.5/gitmarket-macos-aarch64.tar.gz) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.5](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.5) | 14.8 MB | 0 | 2026-05-21 |
 | [gitmarket-macos-x86_64.tar.gz](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.5/gitmarket-macos-x86_64.tar.gz) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.5](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.5) | 14.8 MB | 0 | 2026-05-21 |
@@ -36,7 +41,7 @@ A living release board for Harzva projects with published GitHub releases, direc
 | [gitmarket-ios-simulator.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.5/gitmarket-ios-simulator.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.5](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.5) | 386.9 KB | 0 | 2026-05-21 |
 | [mobilecode-ios-simulator-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-ios-simulator-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.4 MB | 0 | 2026-05-12 |
 | [mobilecode-site-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 219.6 KB | 2 | 2026-05-12 |
-| [mobilecode-v0.1.0.apk](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk) | [mobilecode](https://github.com/Harzva/mobilecode) | Android APK | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.6 MB | 13 | 2026-05-12 |
+| [mobilecode-v0.1.0.apk](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk) | [mobilecode](https://github.com/Harzva/mobilecode) | Android APK | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.6 MB | 14 | 2026-05-12 |
 
 ## Auto Update
 
@@ -46,5 +51,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-06-18T08:21:36.098291+00:00`.
+- Generated at: `2026-06-19T08:42:40.900069+00:00`.
 - Private repositories omitted from this public output: `13`.
