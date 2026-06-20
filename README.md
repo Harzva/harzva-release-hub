@@ -41,7 +41,7 @@ A living release board for Harzva projects with published GitHub releases, direc
 | [gitmarket-ios-simulator.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.5/gitmarket-ios-simulator.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.5](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.5) | 386.9 KB | 0 | 2026-05-21 |
 | [mobilecode-ios-simulator-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-ios-simulator-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.4 MB | 0 | 2026-05-12 |
 | [mobilecode-site-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 219.6 KB | 2 | 2026-05-12 |
-| [mobilecode-v0.1.0.apk](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk) | [mobilecode](https://github.com/Harzva/mobilecode) | Android APK | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.6 MB | 14 | 2026-05-12 |
+| [mobilecode-v0.1.0.apk](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk) | [mobilecode](https://github.com/Harzva/mobilecode) | Android APK | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.6 MB | 15 | 2026-05-12 |
 
 ## Auto Update
 
@@ -51,5 +51,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-06-19T08:42:40.900069+00:00`.
+- Generated at: `2026-06-20T07:10:17.091046+00:00`.
 - Private repositories omitted from this public output: `13`.
