@@ -182,8 +182,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-06-26T04:48:06Z",
-    "updatedAt": "2026-06-26T04:48:09Z",
+    "pushedAt": "2026-06-27T04:31:34Z",
+    "updatedAt": "2026-06-27T04:31:38Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -236,13 +236,13 @@
       "name": "Dart"
     },
     "pushedAt": "2026-06-25T14:14:31Z",
-    "updatedAt": "2026-06-26T00:10:35Z",
+    "updatedAt": "2026-06-26T23:11:58Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 151,
+    "stargazerCount": 171,
     "forkCount": 4,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -282,7 +282,7 @@
           "name": "mobilecode-v0.1.0.apk",
           "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
           "size": 53051517,
-          "downloadCount": 20,
+          "downloadCount": 22,
           "contentType": "application/vnd.android.package-archive"
         }
       ]
@@ -403,7 +403,7 @@
           "name": "RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
           "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
           "size": 775571,
-          "downloadCount": 4,
+          "downloadCount": 5,
           "contentType": "application/gzip"
         },
         {
