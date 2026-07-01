@@ -36,7 +36,7 @@
           "name": "codex-managed-agent-1.0.3.vsix",
           "url": "https://github.com/Harzva/codex-managed-agent/releases/download/v1.0.3/codex-managed-agent-1.0.3.vsix",
           "size": 468736,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "contentType": "application/octet-stream"
         }
       ]
@@ -182,8 +182,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-06-30T04:40:48Z",
-    "updatedAt": "2026-06-30T04:40:53Z",
+    "pushedAt": "2026-07-01T05:00:25Z",
+    "updatedAt": "2026-07-01T05:00:29Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -236,13 +236,13 @@
       "name": "Dart"
     },
     "pushedAt": "2026-06-25T14:14:31Z",
-    "updatedAt": "2026-06-27T22:28:07Z",
+    "updatedAt": "2026-06-30T20:05:24Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 171,
+    "stargazerCount": 168,
     "forkCount": 4,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
