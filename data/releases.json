@@ -36,7 +36,7 @@
           "name": "codex-managed-agent-1.0.3.vsix",
           "url": "https://github.com/Harzva/codex-managed-agent/releases/download/v1.0.3/codex-managed-agent-1.0.3.vsix",
           "size": 468736,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "contentType": "application/octet-stream"
         }
       ]
@@ -182,8 +182,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-07-02T04:37:31Z",
-    "updatedAt": "2026-07-02T04:37:35Z",
+    "pushedAt": "2026-07-03T04:23:49Z",
+    "updatedAt": "2026-07-03T04:23:53Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
