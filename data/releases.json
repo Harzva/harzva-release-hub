@@ -182,8 +182,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-07-08T03:52:00Z",
-    "updatedAt": "2026-07-08T03:52:04Z",
+    "pushedAt": "2026-07-09T04:27:21Z",
+    "updatedAt": "2026-07-09T04:27:26Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -403,7 +403,7 @@
           "name": "RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
           "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
           "size": 775571,
-          "downloadCount": 5,
+          "downloadCount": 6,
           "contentType": "application/gzip"
         },
         {

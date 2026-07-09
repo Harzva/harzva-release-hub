@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-07-08T06:08:38.772352+00:00",
+    "generatedAt": "2026-07-09T07:02:59.977871+00:00",
     "owner": "Harzva",
     "mode": "release",
     "publicRepositories": 108,
@@ -449,6 +449,40 @@
     ],
     "Pages and Live Demos": [
       {
+        "name": "harzva-pages-hub",
+        "nameWithOwner": "Harzva/harzva-pages-hub",
+        "url": "https://github.com/Harzva/harzva-pages-hub",
+        "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-07-09T06:55:46Z",
+        "updatedAt": "2026-07-09T06:55:57Z",
+        "createdAt": "2026-05-14T09:29:39Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-pages-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "harzva-project-atlas",
         "nameWithOwner": "Harzva/harzva-project-atlas",
         "url": "https://github.com/Harzva/harzva-project-atlas",
@@ -459,8 +493,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-08T06:06:30Z",
-        "updatedAt": "2026-07-08T06:06:34Z",
+        "pushedAt": "2026-07-09T06:54:37Z",
+        "updatedAt": "2026-07-09T06:54:41Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -493,8 +527,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-07-08T04:32:16Z",
-        "updatedAt": "2026-07-08T04:32:20Z",
+        "pushedAt": "2026-07-09T05:05:46Z",
+        "updatedAt": "2026-07-09T05:05:50Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -527,8 +561,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-07-08T03:52:00Z",
-        "updatedAt": "2026-07-08T03:52:04Z",
+        "pushedAt": "2026-07-09T04:27:21Z",
+        "updatedAt": "2026-07-09T04:27:26Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -580,8 +614,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-07T06:57:49Z",
-        "updatedAt": "2026-07-07T06:57:52Z",
+        "pushedAt": "2026-07-08T06:08:39Z",
+        "updatedAt": "2026-07-08T06:08:43Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -594,40 +628,6 @@
         "pages": {
           "enabled": true,
           "url": "https://harzva.github.io/harzva-release-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-pages-hub",
-        "nameWithOwner": "Harzva/harzva-pages-hub",
-        "url": "https://github.com/Harzva/harzva-pages-hub",
-        "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-07-07T06:56:22Z",
-        "updatedAt": "2026-07-07T06:56:25Z",
-        "createdAt": "2026-05-14T09:29:39Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-pages-hub/",
           "status": null,
           "source": {
             "branch": "main",
@@ -1022,7 +1022,7 @@
               "name": "RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
               "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
               "size": 775571,
-              "downloadCount": 5,
+              "downloadCount": 6,
               "contentType": "application/gzip"
             },
             {
@@ -1273,8 +1273,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-08T06:07:01Z",
-        "updatedAt": "2026-07-08T06:07:05Z",
+        "pushedAt": "2026-07-09T06:54:36Z",
+        "updatedAt": "2026-07-09T06:54:40Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -3541,7 +3541,7 @@
       "assetName": "RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
       "assetUrl": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
       "size": 775571,
-      "downloadCount": 5,
+      "downloadCount": 6,
       "kind": "Archive",
       "functionCategory": "Desktop Apps",
       "releaseName": "v0.6.6",
@@ -3816,7 +3816,7 @@
         "assetName": "RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
         "assetUrl": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
         "size": 775571,
-        "downloadCount": 5,
+        "downloadCount": 6,
         "kind": "Archive",
         "functionCategory": "Desktop Apps",
         "releaseName": "v0.6.6",
@@ -3969,8 +3969,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-08T04:32:16Z",
-      "updatedAt": "2026-07-08T04:32:20Z",
+      "pushedAt": "2026-07-09T05:05:46Z",
+      "updatedAt": "2026-07-09T05:05:50Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4484,8 +4484,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-07T06:56:22Z",
-      "updatedAt": "2026-07-07T06:56:25Z",
+      "pushedAt": "2026-07-09T06:55:46Z",
+      "updatedAt": "2026-07-09T06:55:57Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4518,8 +4518,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-08T06:06:30Z",
-      "updatedAt": "2026-07-08T06:06:34Z",
+      "pushedAt": "2026-07-09T06:54:37Z",
+      "updatedAt": "2026-07-09T06:54:41Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4552,8 +4552,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-07T06:57:49Z",
-      "updatedAt": "2026-07-07T06:57:52Z",
+      "pushedAt": "2026-07-08T06:08:39Z",
+      "updatedAt": "2026-07-08T06:08:43Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4586,8 +4586,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-08T06:07:01Z",
-      "updatedAt": "2026-07-08T06:07:05Z",
+      "pushedAt": "2026-07-09T06:54:36Z",
+      "updatedAt": "2026-07-09T06:54:40Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4688,8 +4688,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-08T03:52:00Z",
-      "updatedAt": "2026-07-08T03:52:04Z",
+      "pushedAt": "2026-07-09T04:27:21Z",
+      "updatedAt": "2026-07-09T04:27:26Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4985,7 +4985,7 @@
             "name": "RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
             "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
             "size": 775571,
-            "downloadCount": 5,
+            "downloadCount": 6,
             "contentType": "application/gzip"
           },
           {
@@ -5217,8 +5217,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-08T03:52:00Z",
-      "updatedAt": "2026-07-08T03:52:04Z",
+      "pushedAt": "2026-07-09T04:27:21Z",
+      "updatedAt": "2026-07-09T04:27:26Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5438,7 +5438,7 @@
             "name": "RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
             "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
             "size": 775571,
-            "downloadCount": 5,
+            "downloadCount": 6,
             "contentType": "application/gzip"
           },
           {
@@ -5963,8 +5963,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-08T06:07:01Z",
-      "updatedAt": "2026-07-08T06:07:05Z",
+      "pushedAt": "2026-07-09T06:54:36Z",
+      "updatedAt": "2026-07-09T06:54:40Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
