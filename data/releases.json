@@ -182,8 +182,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-07-19T04:02:05Z",
-    "updatedAt": "2026-07-19T04:02:08Z",
+    "pushedAt": "2026-07-20T04:12:10Z",
+    "updatedAt": "2026-07-20T04:12:17Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -410,7 +410,7 @@
           "name": "RepoAtlas-v0.6.6-windows-x64.exe",
           "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-windows-x64.exe",
           "size": 1945088,
-          "downloadCount": 3,
+          "downloadCount": 4,
           "contentType": "application/x-msdos-program"
         }
       ]
