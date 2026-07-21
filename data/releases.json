@@ -182,8 +182,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-07-20T04:12:10Z",
-    "updatedAt": "2026-07-20T04:12:17Z",
+    "pushedAt": "2026-07-21T03:53:20Z",
+    "updatedAt": "2026-07-21T03:53:24Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -236,13 +236,13 @@
       "name": "Dart"
     },
     "pushedAt": "2026-07-18T16:07:40Z",
-    "updatedAt": "2026-07-17T21:43:56Z",
+    "updatedAt": "2026-07-20T19:38:32Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 160,
+    "stargazerCount": 80,
     "forkCount": 4,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
