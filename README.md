@@ -6,7 +6,7 @@ A living release board for Harzva projects with published GitHub releases, direc
 
 [Live Release Board](https://harzva.github.io/harzva-release-hub/) | [Project Atlas](https://github.com/Harzva/harzva-project-atlas)
 
-![Releases](https://img.shields.io/badge/releases-7-F05A28?style=for-the-badge) ![Assets](https://img.shields.io/badge/assets-16-111111?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
+![Releases](https://img.shields.io/badge/releases-8-F05A28?style=for-the-badge) ![Assets](https://img.shields.io/badge/assets-16-111111?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,7 @@ A living release board for Harzva projects with published GitHub releases, direc
 
 | Project | Version | Assets | Published | Language | Description |
 |---|---:|---:|---:|---:|---|
+| [LDB](https://github.com/Harzva/LDB) | [v0.1.0](https://github.com/Harzva/LDB/releases/tag/v0.1.0) | 0 | 2026-07-24 | Python | Logits DeBiasing for Few-Shot Learning: audited code, protocol, evidence, and project page |
 | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | [v0.3.8](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.8) | 6 | 2026-06-21 | Rust | GitHub/Gitee APK discovery and release download tool |
 | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 4 | 2026-06-18 | Python | Context-safe IEEE and Elsevier journal manuscript skill suites with metadata-only RAG trace assets |
 | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | [v0.6.6](https://github.com/Harzva/RepoAtlas/releases/tag/v0.6.6) | 2 | 2026-05-21 | Rust | RepoAtlas maps multiple GitHub accounts to local Git checkouts, context categories, sync drift, and desktop folder actions. |
@@ -51,5 +52,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-07-24T06:06:13.629018+00:00`.
+- Generated at: `2026-07-25T05:58:18.129653+00:00`.
 - Private repositories omitted from this public output: `13`.
