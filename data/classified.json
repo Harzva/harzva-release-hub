@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-07-25T05:58:18.129653+00:00",
+    "generatedAt": "2026-07-26T06:17:00.708532+00:00",
     "owner": "Harzva",
     "mode": "release",
     "publicRepositories": 110,
@@ -459,8 +459,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-25T05:57:05Z",
-        "updatedAt": "2026-07-25T05:57:09Z",
+        "pushedAt": "2026-07-26T06:15:34Z",
+        "updatedAt": "2026-07-26T06:15:54Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -493,8 +493,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-25T05:52:17Z",
-        "updatedAt": "2026-07-25T05:52:28Z",
+        "pushedAt": "2026-07-26T06:14:22Z",
+        "updatedAt": "2026-07-26T06:14:26Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -527,8 +527,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-07-25T04:27:55Z",
-        "updatedAt": "2026-07-25T04:28:05Z",
+        "pushedAt": "2026-07-26T04:42:30Z",
+        "updatedAt": "2026-07-26T04:42:44Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -561,8 +561,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-07-25T03:45:29Z",
-        "updatedAt": "2026-07-25T03:45:45Z",
+        "pushedAt": "2026-07-26T04:04:09Z",
+        "updatedAt": "2026-07-26T04:04:15Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -602,6 +602,40 @@
           "draft": false,
           "assets": []
         }
+      },
+      {
+        "name": "harzva-release-hub",
+        "nameWithOwner": "Harzva/harzva-release-hub",
+        "url": "https://github.com/Harzva/harzva-release-hub",
+        "description": "Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-07-25T05:58:18Z",
+        "updatedAt": "2026-07-25T05:58:39Z",
+        "createdAt": "2026-05-14T09:29:34Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-release-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-release-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
       },
       {
         "name": "LDB",
@@ -651,40 +685,6 @@
           "draft": false,
           "assets": []
         }
-      },
-      {
-        "name": "harzva-release-hub",
-        "nameWithOwner": "Harzva/harzva-release-hub",
-        "url": "https://github.com/Harzva/harzva-release-hub",
-        "description": "Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-07-24T06:06:14Z",
-        "updatedAt": "2026-07-24T06:06:28Z",
-        "createdAt": "2026-05-14T09:29:34Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-release-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-release-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
       },
       {
         "name": "game-ddl",
@@ -1322,8 +1322,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-25T05:52:42Z",
-        "updatedAt": "2026-07-25T05:52:53Z",
+        "pushedAt": "2026-07-26T06:15:18Z",
+        "updatedAt": "2026-07-26T06:15:39Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -4052,8 +4052,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-25T04:27:55Z",
-      "updatedAt": "2026-07-25T04:28:05Z",
+      "pushedAt": "2026-07-26T04:42:30Z",
+      "updatedAt": "2026-07-26T04:42:44Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4567,8 +4567,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-25T05:57:05Z",
-      "updatedAt": "2026-07-25T05:57:09Z",
+      "pushedAt": "2026-07-26T06:15:34Z",
+      "updatedAt": "2026-07-26T06:15:54Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4601,8 +4601,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-25T05:52:17Z",
-      "updatedAt": "2026-07-25T05:52:28Z",
+      "pushedAt": "2026-07-26T06:14:22Z",
+      "updatedAt": "2026-07-26T06:14:26Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4635,8 +4635,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-24T06:06:14Z",
-      "updatedAt": "2026-07-24T06:06:28Z",
+      "pushedAt": "2026-07-25T05:58:18Z",
+      "updatedAt": "2026-07-25T05:58:39Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4669,8 +4669,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-25T05:52:42Z",
-      "updatedAt": "2026-07-25T05:52:53Z",
+      "pushedAt": "2026-07-26T06:15:18Z",
+      "updatedAt": "2026-07-26T06:15:39Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4820,8 +4820,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-25T03:45:29Z",
-      "updatedAt": "2026-07-25T03:45:45Z",
+      "pushedAt": "2026-07-26T04:04:09Z",
+      "updatedAt": "2026-07-26T04:04:15Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5398,8 +5398,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-25T03:45:29Z",
-      "updatedAt": "2026-07-25T03:45:45Z",
+      "pushedAt": "2026-07-26T04:04:09Z",
+      "updatedAt": "2026-07-26T04:04:15Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -6178,8 +6178,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-25T05:52:42Z",
-      "updatedAt": "2026-07-25T05:52:53Z",
+      "pushedAt": "2026-07-26T06:15:18Z",
+      "updatedAt": "2026-07-26T06:15:39Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
