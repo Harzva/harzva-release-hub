@@ -231,14 +231,14 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-04T03:45:38Z",
-    "updatedAt": "2026-08-04T03:47:48Z",
+    "pushedAt": "2026-08-05T03:41:38Z",
+    "updatedAt": "2026-08-05T03:41:42Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 60,
+    "stargazerCount": 59,
     "forkCount": 11,
     "repositoryTopics": [
       "agent-loop",
