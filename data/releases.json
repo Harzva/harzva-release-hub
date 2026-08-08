@@ -231,8 +231,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-07T03:24:23Z",
-    "updatedAt": "2026-08-07T03:24:41Z",
+    "pushedAt": "2026-08-08T02:26:36Z",
+    "updatedAt": "2026-08-08T02:26:40Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -285,13 +285,13 @@
       "name": "Dart"
     },
     "pushedAt": "2026-08-07T01:23:26Z",
-    "updatedAt": "2026-07-20T19:38:32Z",
+    "updatedAt": "2026-08-07T20:15:07Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 80,
+    "stargazerCount": 79,
     "forkCount": 4,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -331,7 +331,7 @@
           "name": "mobilecode-v0.1.0.apk",
           "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
           "size": 53051517,
-          "downloadCount": 51,
+          "downloadCount": 55,
           "contentType": "application/vnd.android.package-archive"
         }
       ]
