@@ -6,7 +6,7 @@ A living release board for Harzva projects with published GitHub releases, direc
 
 [Live Release Board](https://harzva.github.io/harzva-release-hub/) | [Project Atlas](https://github.com/Harzva/harzva-project-atlas)
 
-![Releases](https://img.shields.io/badge/releases-8-F05A28?style=for-the-badge) ![Assets](https://img.shields.io/badge/assets-16-111111?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
+![Releases](https://img.shields.io/badge/releases-10-F05A28?style=for-the-badge) ![Assets](https://img.shields.io/badge/assets-18-111111?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,8 @@ A living release board for Harzva projects with published GitHub releases, direc
 
 | Project | Version | Assets | Published | Language | Description |
 |---|---:|---:|---:|---:|---|
+| [dsh-uvm](https://github.com/Harzva/dsh-uvm) | [v0.1.0-alpha.1](https://github.com/Harzva/dsh-uvm/releases/tag/v0.1.0-alpha.1) | 1 | 2026-08-19 | TypeScript | DSH-native uv environment manager: create/sync/run Python venvs from DSH Web, pip fallback, read-only conda visibility |
+| [dsh-obsidian](https://github.com/Harzva/dsh-obsidian) | [v0.1.0-alpha.0](https://github.com/Harzva/dsh-obsidian/releases/tag/v0.1.0-alpha.0) | 1 | 2026-08-19 | TypeScript |  |
 | [LDB](https://github.com/Harzva/LDB) | [v0.1.0](https://github.com/Harzva/LDB/releases/tag/v0.1.0) | 0 | 2026-07-24 | Python | Logits DeBiasing for Few-Shot Learning: audited code, protocol, evidence, and project page |
 | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | [v0.3.8](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.8) | 6 | 2026-06-21 | Rust | GitHub/Gitee APK discovery and release download tool |
 | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 4 | 2026-06-18 | Python | Context-safe IEEE and Elsevier journal manuscript skill suites with metadata-only RAG trace assets |
@@ -38,11 +40,13 @@ A living release board for Harzva projects with published GitHub releases, direc
 | [gitmarket-windows-x86_64.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-windows-x86_64.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.8](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.8) | 14.6 MB | 0 | 2026-06-21 |
 | [RepoAtlas-v0.6.6-macos-ARM64.tar.gz](https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz) | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | Archive | [v0.6.6](https://github.com/Harzva/RepoAtlas/releases/tag/v0.6.6) | 757.4 KB | 6 | 2026-05-21 |
 | [RepoAtlas-v0.6.6-windows-x64.exe](https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-windows-x64.exe) | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | Windows | [v0.6.6](https://github.com/Harzva/RepoAtlas/releases/tag/v0.6.6) | 1.9 MB | 5 | 2026-05-21 |
+| [harness-flow-dsh-uvm-0.1.0-alpha.1.tgz](https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz) | [dsh-uvm](https://github.com/Harzva/dsh-uvm) | Archive | [v0.1.0-alpha.1](https://github.com/Harzva/dsh-uvm/releases/tag/v0.1.0-alpha.1) | 20.5 KB | 1 | 2026-08-19 |
+| [harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz](https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz) | [dsh-obsidian](https://github.com/Harzva/dsh-obsidian) | Archive | [v0.1.0-alpha.0](https://github.com/Harzva/dsh-obsidian/releases/tag/v0.1.0-alpha.0) | 20.9 KB | 0 | 2026-08-19 |
 | [gitmarket-android-experimental.apk](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-android-experimental.apk) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Android APK | [v0.3.8](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.8) | 15.0 MB | 1 | 2026-06-21 |
 | [gitmarket-ios-simulator.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-ios-simulator.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.8](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.8) | 652.8 KB | 0 | 2026-06-21 |
 | [mobilecode-ios-simulator-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-ios-simulator-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.4 MB | 3 | 2026-05-12 |
 | [mobilecode-site-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 219.6 KB | 3 | 2026-05-12 |
-| [mobilecode-v0.1.0.apk](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk) | [mobilecode](https://github.com/Harzva/mobilecode) | Android APK | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.6 MB | 58 | 2026-05-12 |
+| [mobilecode-v0.1.0.apk](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk) | [mobilecode](https://github.com/Harzva/mobilecode) | Android APK | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.6 MB | 61 | 2026-05-12 |
 
 ## Auto Update
 
@@ -52,5 +56,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-08-19T04:02:12.729434+00:00`.
+- Generated at: `2026-08-20T04:02:24.982996+00:00`.
 - Private repositories omitted from this public output: `13`.
