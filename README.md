@@ -6,7 +6,7 @@ A living release board for Harzva projects with published GitHub releases, direc
 
 [Live Release Board](https://harzva.github.io/harzva-release-hub/) | [Project Atlas](https://github.com/Harzva/harzva-project-atlas)
 
-![Releases](https://img.shields.io/badge/releases-14-F05A28?style=for-the-badge) ![Assets](https://img.shields.io/badge/assets-22-111111?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
+![Releases](https://img.shields.io/badge/releases-15-F05A28?style=for-the-badge) ![Assets](https://img.shields.io/badge/assets-23-111111?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,7 @@ A living release board for Harzva projects with published GitHub releases, direc
 
 | Project | Version | Assets | Published | Language | Description |
 |---|---:|---:|---:|---:|---|
+| [dsh-agent-project-sync](https://github.com/Harzva/dsh-agent-project-sync) | [v0.1.0](https://github.com/Harzva/dsh-agent-project-sync/releases/tag/v0.1.0) | 1 | 2026-08-23 | JavaScript | Synchronize Codex and Claude project directories into native DeepSeek Harness workspaces. |
 | [dsh-voice](https://github.com/Harzva/dsh-voice) | [v0.1.0](https://github.com/Harzva/dsh-voice/releases/tag/v0.1.0) | 1 | 2026-08-21 | TypeScript |  |
 | [dsh-control-plane](https://github.com/Harzva/dsh-control-plane) | [v0.1.0](https://github.com/Harzva/dsh-control-plane/releases/tag/v0.1.0) | 1 | 2026-08-21 | JavaScript |  |
 | [dsh-cli-store](https://github.com/Harzva/dsh-cli-store) | [v0.3.0](https://github.com/Harzva/dsh-cli-store/releases/tag/v0.3.0) | 1 | 2026-08-20 | JavaScript |  |
@@ -34,6 +35,7 @@ A living release board for Harzva projects with published GitHub releases, direc
 | Download | Repo | Kind | Version | Size | Downloads | Published |
 |---|---|---:|---:|---:|---:|---:|
 | [codex-managed-agent-1.0.3.vsix](https://github.com/Harzva/codex-managed-agent/releases/download/v1.0.3/codex-managed-agent-1.0.3.vsix) | [codex-managed-agent](https://github.com/Harzva/codex-managed-agent) | Release Asset | [v1.0.3](https://github.com/Harzva/codex-managed-agent/releases/tag/v1.0.3) | 457.8 KB | 5 | 2026-04-16 |
+| [dsh-agent-project-sync-0.1.0.tgz](https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz) | [dsh-agent-project-sync](https://github.com/Harzva/dsh-agent-project-sync) | Archive | [v0.1.0](https://github.com/Harzva/dsh-agent-project-sync/releases/tag/v0.1.0) | 13.7 KB | 0 | 2026-08-23 |
 | [elsevier-skills-v2.7.0.zip](https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip) | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Archive | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 50.8 MB | 1 | 2026-06-18 |
 | [ieee-skills-v2.7.0.zip](https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/ieee-skills-v2.7.0.zip) | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Archive | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 88.5 MB | 1 | 2026-06-18 |
 | [journal-skill-suites-v2.7.0.zip](https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip) | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Archive | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 142.1 MB | 2 | 2026-06-18 |
@@ -64,5 +66,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-08-23T04:04:53.109178+00:00`.
+- Generated at: `2026-08-24T04:08:54.244257+00:00`.
 - Private repositories omitted from this public output: `13`.
