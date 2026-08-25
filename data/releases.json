@@ -54,13 +54,13 @@
       "name": "JavaScript"
     },
     "pushedAt": "2026-08-23T09:05:32Z",
-    "updatedAt": "2026-08-23T09:05:28Z",
+    "updatedAt": "2026-08-25T03:45:30Z",
     "createdAt": "2026-08-23T08:55:48Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 0,
+    "stargazerCount": 1,
     "forkCount": 0,
     "repositoryTopics": [
       "claude-code",
@@ -84,7 +84,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 0,
+          "downloadCount": 28,
           "contentType": "application/x-gtar"
         }
       ]
@@ -102,13 +102,13 @@
       "name": "JavaScript"
     },
     "pushedAt": "2026-08-20T16:21:56Z",
-    "updatedAt": "2026-08-20T16:24:14Z",
+    "updatedAt": "2026-08-25T03:45:31Z",
     "createdAt": "2026-08-20T14:54:57Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 0,
+    "stargazerCount": 1,
     "forkCount": 0,
     "repositoryTopics": [
       "dsh-plugin"
@@ -147,13 +147,13 @@
       "name": "JavaScript"
     },
     "pushedAt": "2026-08-21T09:18:29Z",
-    "updatedAt": "2026-08-21T09:19:10Z",
+    "updatedAt": "2026-08-25T03:45:32Z",
     "createdAt": "2026-08-21T08:50:04Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 0,
+    "stargazerCount": 1,
     "forkCount": 0,
     "repositoryTopics": [
       "dsh-plugin"
@@ -551,8 +551,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-24T02:04:29Z",
-    "updatedAt": "2026-08-24T02:04:37Z",
+    "pushedAt": "2026-08-25T01:57:39Z",
+    "updatedAt": "2026-08-25T01:58:07Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
