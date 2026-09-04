@@ -84,7 +84,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 420,
+          "downloadCount": 458,
           "contentType": "application/x-gtar"
         }
       ]
@@ -129,7 +129,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 345,
+          "downloadCount": 377,
           "contentType": "application/x-gtar"
         }
       ]
@@ -307,7 +307,52 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 29,
+          "downloadCount": 51,
+          "contentType": "application/x-gtar"
+        }
+      ]
+    }
+  },
+  {
+    "name": "dsh-session-folders",
+    "nameWithOwner": "Harzva/dsh-session-folders",
+    "url": "https://github.com/Harzva/dsh-session-folders",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-09-03T08:37:10Z",
+    "updatedAt": "2026-09-03T08:36:58Z",
+    "createdAt": "2026-09-03T08:36:25Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "dsh-plugin"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-session-folders",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": {
+      "name": "dsh-session-folders v0.1.0",
+      "tagName": "v0.1.0",
+      "url": "https://github.com/Harzva/dsh-session-folders/releases/tag/v0.1.0",
+      "publishedAt": "2026-09-03T08:37:11Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "name": "harzva-dsh-session-folders-0.1.0.tgz",
+          "url": "https://github.com/Harzva/dsh-session-folders/releases/download/v0.1.0/harzva-dsh-session-folders-0.1.0.tgz",
+          "size": 5503,
+          "downloadCount": 0,
           "contentType": "application/x-gtar"
         }
       ]
@@ -352,7 +397,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 366,
+          "downloadCount": 400,
           "contentType": "application/x-gtar"
         }
       ]
@@ -592,8 +637,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-09-03T04:48:08Z",
-    "updatedAt": "2026-09-03T04:49:34Z",
+    "pushedAt": "2026-09-04T04:49:58Z",
+    "updatedAt": "2026-09-04T04:50:10Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
