@@ -203,7 +203,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 5266,
+          "downloadCount": 5314,
           "contentType": "application/x-gtar"
         }
       ]
@@ -248,7 +248,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 5076,
+          "downloadCount": 5124,
           "contentType": "application/x-gtar"
         }
       ]
@@ -293,7 +293,7 @@
           "name": "dsh-control-plane-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
           "size": 106806,
-          "downloadCount": 4407,
+          "downloadCount": 4455,
           "contentType": "application/x-gtar"
         }
       ]
@@ -552,7 +552,7 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 4784,
+          "downloadCount": 4833,
           "contentType": "application/x-gtar"
         }
       ]
@@ -642,7 +642,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 5320,
+          "downloadCount": 5368,
           "contentType": "application/x-gtar"
         }
       ]
@@ -932,7 +932,7 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-11-16T06:55:59Z",
+    "pushedAt": "2026-11-17T08:13:35Z",
     "updatedAt": "2026-11-15T16:07:43Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
@@ -1039,6 +1039,43 @@
     }
   },
   {
+    "name": "omini-subagent-staff",
+    "nameWithOwner": "Harzva/omini-subagent-staff",
+    "url": "https://github.com/Harzva/omini-subagent-staff",
+    "description": "Project-scoped local Codex subagent dispatch and receipts for Magpie",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-11-17T01:22:19Z",
+    "updatedAt": "2026-11-17T01:19:46Z",
+    "createdAt": "2026-11-17T01:17:31Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "magpie-plugin"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/omini-subagent-staff",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": {
+      "name": "omini-subagent-staff v0.2.1",
+      "tagName": "v0.2.1",
+      "url": "https://github.com/Harzva/omini-subagent-staff/releases/tag/v0.2.1",
+      "publishedAt": "2026-11-17T01:22:19Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": []
+    }
+  },
+  {
     "name": "pami-skill-suites",
     "nameWithOwner": "Harzva/pami-skill-suites",
     "url": "https://github.com/Harzva/pami-skill-suites",
@@ -1096,14 +1133,14 @@
           "name": "journal-skill-suites-v2.7.0.zip",
           "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
           "size": 148992508,
-          "downloadCount": 6,
+          "downloadCount": 7,
           "contentType": "application/zip"
         },
         {
           "name": "main-figure-site-v2.7.0.zip",
           "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/main-figure-site-v2.7.0.zip",
           "size": 4676658,
-          "downloadCount": 3,
+          "downloadCount": 4,
           "contentType": "application/zip"
         }
       ]
@@ -1162,6 +1199,49 @@
           "size": 1945088,
           "downloadCount": 8,
           "contentType": "application/x-msdos-program"
+        }
+      ]
+    }
+  },
+  {
+    "name": "wechat-bot",
+    "nameWithOwner": "Harzva/wechat-bot",
+    "url": "https://github.com/Harzva/wechat-bot",
+    "description": "macOS 微信智能客服 RPA：一键托管好友 · AI 自动回复（知识库+历史记忆+人设）· 转人工协同 · 防封频控",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-11-17T08:39:42Z",
+    "updatedAt": "2026-11-17T02:42:27Z",
+    "createdAt": "2026-11-17T02:42:14Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/wechat-bot",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": {
+      "name": "WeChat Bot v2.4.37 — macOS Apple Silicon",
+      "tagName": "v2.4.37",
+      "url": "https://github.com/Harzva/wechat-bot/releases/tag/v2.4.37",
+      "publishedAt": "2026-11-17T08:39:42Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "name": "WeChat-Bot-2.4.37-macOS-arm64.zip",
+          "url": "https://github.com/Harzva/wechat-bot/releases/download/v2.4.37/WeChat-Bot-2.4.37-macOS-arm64.zip",
+          "size": 921537,
+          "downloadCount": 1,
+          "contentType": "application/zip"
         }
       ]
     }
